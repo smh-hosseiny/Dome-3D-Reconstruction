@@ -1,6 +1,6 @@
 function GUI
 clc; clear; close all;
-image = imread('images.jpg');
+image = imread('images/images.jpg');
 f = figure('Visible','off','Position',[360,500,400,300]);
 ha = axes('unit', 'normalized', 'position', [0 0 1 1]);
 imagesc(image);
