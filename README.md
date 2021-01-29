@@ -28,3 +28,8 @@ and finally:
 
 ![3D Model](images/5.JPG)
 
+## References
+<a id="1">[1]</a> 
+Jia, W., Yue, Y., Fernstrom, J. D., Zhang, Z., Yang, Y., & Sun, M.(2012). 
+3D Localization of Circular Feature in 2D Image and Application to Food Volume Estimation.
+
