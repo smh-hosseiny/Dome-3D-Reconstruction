@@ -17,7 +17,8 @@ GUI
 
 Specify path to your image (you can use example images in images file) and the method of reconstruction.
 
-![Input](images/example1.jpg)
+<img src="images/example1.jpg" width="480" height="640">
+
 
 ### Output
 
