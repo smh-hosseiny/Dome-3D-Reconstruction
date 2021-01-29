@@ -11,12 +11,16 @@ GUI
 
 ![the GUI](images/6.JPG)
 
-## Output
+## Performance
+
+### Input
 
 Specify path to your image (you can use example images in images file) and the method of reconstruction.
 
 ![Input](images/example1.jpg)
-![](images/arrow.JPG)
+
+### Output
+
 ![Fitted profile](images/2.JPG)
 ![Fitted profile](images/3.JPG)
 
