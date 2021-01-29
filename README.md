@@ -17,7 +17,7 @@ GUI
 
 Specify path to your image (you can use example images in images file) and the method of reconstruction.
 
-<img src="images/example1.jpg" width="300" height="300">
+<img src="images/example1.jpg" width="240" height="320">
 
 
 ### Output
