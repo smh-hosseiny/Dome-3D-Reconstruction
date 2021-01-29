@@ -9,7 +9,7 @@ Use the command below on Matlab command window to run the GUI:
 GUI
 ```
 
-![the GUI](images/6.JPG)
+<img src="images/6.JPG" width="400" height="400">
 
 ## Performance
 
@@ -17,7 +17,7 @@ GUI
 
 Specify path to your image (you can use example images in images file) and the method of reconstruction.
 
-<img src="images/example1.jpg" width="260" height="320">
+<img src="images/example1.jpg" width="280" height="320">
 
 
 ### Output
