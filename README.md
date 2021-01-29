@@ -15,7 +15,7 @@ GUI
 
 ### Input
 
-Specify path to your image (you can use example images in images file) and the method of reconstruction.
+Specify the path to your image (you can use example images in images folder) and the method of reconstruction.
 
 <img src="images/example1.jpg" width="280" height="320">
 
