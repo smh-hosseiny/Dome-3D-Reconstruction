@@ -15,7 +15,7 @@ GUI
 
 Specify path to your image (you can use example images in images file) and the method of reconstruction.
 
-![Input](images/example1.JPG)
+![Input](images/example 1.JPG)
 ![](images/arrow.JPG)
 ![Fitted profile](images/2.JPG)
 ![Fitted profile](images/3.JPG)
