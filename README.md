@@ -27,7 +27,8 @@ Specify path to your image (you can use example images in images file) and the m
 
 and finally:
 
-![3D Model](images/5.JPG)
+<img src="images/5.JPG" width="300" height="300">
+
 
 ## References
 <a id="1">[1]</a> 
