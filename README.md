@@ -29,6 +29,12 @@ and finally:
 
 ![3D Model](images/5.JPG)
 
+### Experiment
+We reconstructed the 3D model of some other domes:
+
+
+![3D Model](images/E.JPG)
+
 ## References
 <a id="1">[1]</a> 
 Jia, W., Yue, Y., Fernstrom, J. D., Zhang, Z., Yang, Y., & Sun, M.(2012). 
