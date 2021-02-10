@@ -33,7 +33,7 @@ and finally:
 We reconstructed the 3D model of some other domes:
 
 
-![3D Model](images/E.JPG)
+![3D Model](images/E.png)
 
 ## References
 <a id="1">[1]</a> 
